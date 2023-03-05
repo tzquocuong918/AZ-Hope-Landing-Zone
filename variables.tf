@@ -8,14 +8,14 @@
 
 variable "subscription_id_management" {
   type        = string
-  default     = ""
-  description = "47f36dd9-76ae-4fb7-80aa-adb7a38b3131"
+  default     = "47f36dd9-76ae-4fb7-80aa-adb7a38b3131"
+  description = "subscription_id_management"
 }
 
 variable "subscription_id_connectivity" {
   type        = string
-  default     = ""
-  description = "47f36dd9-76ae-4fb7-80aa-adb7a38b3131"
+  default     = "47f36dd9-76ae-4fb7-80aa-adb7a38b3131"
+  description = "subscription_id_management"
 }
 
 variable "root_id" {
